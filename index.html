@@ -74,7 +74,6 @@
     </section>
 
     <section class="sing-up">
-        <div class="rectangle"></div>
         <div class="container">
             <div class="icons">
             </div>
