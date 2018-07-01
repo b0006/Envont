@@ -1,0 +1,111 @@
+body {
+    background-color: #4a454b;
+}
+
+/* HEADER */
+
+.header {
+    margin-top: 48px;
+}
+
+.img__logo {
+    height: 62px;
+    width: 230px;
+    background: url("../img/header_logo.png");
+}
+
+.top-menu {
+    margin-top: 24px;
+    float: right;
+    text-transform: uppercase;
+}
+
+.top-menu__item{
+    font-weight: bold;
+    display: inline-block;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
+.top-menu__link {
+    font-size: 15px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.top-menu__link:hover {
+    color: #82b541;
+}
+
+.top-menu__link:active {
+    color: #fbaf16;
+}
+
+.top-menu__link_active {
+    color: #82b541;
+}
+
+/* SECTION HOURS */
+
+.hours {
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    margin-top: 120px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.content {
+    padding-bottom: 25px;
+    border: 4px solid #82b541;
+    border-radius: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.content__values {
+    font-size: 130px;
+}
+
+.content__colon {
+    position: absolute;
+    width: 50%;
+}
+
+.content__description {
+    font-size: 25px;
+}
+
+.content__description-item {
+    display: inline-block;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+/* SECTION SING-UP */
+
+.sing-up {
+    margin-top: 244px;
+}
+
+.rectangle {
+    position: relative;
+    background: url("../img/rectangle_white.png") center / cover no-repeat;
+    height: 119px;
+    width: 100vw;
+}
+
+.icons {
+    background: url("../img/icons.png") center / cover no-repeat;
+    height: 251px;
+    width: 693px;
+    margin-top: -213px;
+}
+
+/* SECTION TIME time*/
+
+.time {
+    height: 1000px;
+    background-color: #ffffff;
+}
+
