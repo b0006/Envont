@@ -104,7 +104,7 @@
                             </div>
                         </form>
                         <div class="form__hurry-up">
-                            Hurry up, Limited seats availble
+                            00Hurry up, Limited seats availble
                                 *we will never spam your email
                         </div>
                     </div>
